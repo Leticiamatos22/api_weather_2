@@ -1,6 +1,5 @@
-# api_weather
 
-# API de Consulta Climática em Django
+# API de Consulta Climática WEATHER
 
 Este é um projeto simples de uma API construída com Django para consulta de dados climáticos. A API permite a inserção e consulta de dados meteorológicos, como temperatura, cidade, pressão atmosférica, umidade e condição do tempo.
 
